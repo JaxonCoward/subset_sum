@@ -1,5 +1,5 @@
-// Image <main.c>
-// EE 312 practice maze
+// Subset Sum <subset_sum.cpp>
+// EE 312 Quiz 2
 // Jaxon Coward
 // Jsc3536
 // Slip days used: <0>
